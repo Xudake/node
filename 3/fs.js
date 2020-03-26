@@ -11,6 +11,6 @@ const fs = require('fs');
 
 
 //writeFile(文件名,内容,回调)
-// fs.writeFile('bbb.txt','123123',(err)=>{
-//     console.log(err);
-// })
+fs.writeFile('bbb.txt','123123222',(err)=>{
+    console.log(err);
+})
